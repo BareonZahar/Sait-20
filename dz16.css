@@ -9,36 +9,47 @@ body{
 @keyframes polegudes {
     0% {
        background-image: url("ZastavkaPol.jpg");
+          background-size: 100%;
     }
      10% {
        background-image: url("ZastavkaPol.jpg");
+           background-size: 100%;
     }
     20%{
         background-image: url("ZastaP.jpg");
+          background-size: 100%;
     }
      30%{
         background-image: url("ZastaP.jpg");
+           background-size: 100%;
     }
     40%{
         background-image: url("ZastPl.jpg");
+          background-size: 100%;
     }
     50%{
         background-image: url("ZastPl.jpg");
+          background-size: 100%;
     }
     60%{
         background-image: url("ZasPrivet.jpg");
+          background-size: 100%;
     }
     70%{
         background-image: url("ZasPrivet.jpg");
+          background-size: 100%;
     }
     80%{
         background-image: url("ZasPrivet.jpg");
+          background-size: 100%;
     }
       90%{
         background-image: url("ZastavkaPol.jpg");
+            background-size: 100%;
     }
     100%{
         background-image: url("ZastavkaPol.jpg");
+          background-size: 100%;
     }
 }
 .container-fluid{
@@ -85,6 +96,7 @@ body{
 }
 #cryg {
     background-image: url("fortuna.png");
+      background-size: 100%;
     position: relative;
     margin-left: 20px;
     width: 400px;
