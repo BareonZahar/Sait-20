@@ -9,52 +9,40 @@ body{
 @keyframes polegudes {
     0% {
        background-image: url("ZastavkaPol.jpg");
-          background-size: 100%;
     }
      10% {
-       background-image: url("ZastavkaPol.jpg");
-           background-size: 100%;
+       background-image: url("ZastavkaPol.jpg");         
     }
     20%{
-        background-image: url("ZastaP.jpg");
-          background-size: 100%;
+        background-image: url("ZastaP.jpg");     
     }
      30%{
-        background-image: url("ZastaP.jpg");
-           background-size: 100%;
+        background-image: url("ZastaP.jpg");          
     }
     40%{
         background-image: url("ZastPl.jpg");
-          background-size: 100%;
-    }
+         
     50%{
-        background-image: url("ZastPl.jpg");
-          background-size: 100%;
+        background-image: url("ZastPl.jpg");      
     }
     60%{
-        background-image: url("ZasPrivet.jpg");
-          background-size: 100%;
+        background-image: url("ZasPrivet.jpg");         
     }
     70%{
-        background-image: url("ZasPrivet.jpg");
-          background-size: 100%;
+        background-image: url("ZasPrivet.jpg");    
     }
     80%{
-        background-image: url("ZasPrivet.jpg");
-          background-size: 100%;
+        background-image: url("ZasPrivet.jpg");      
     }
       90%{
-        background-image: url("ZastavkaPol.jpg");
-            background-size: 100%;
+        background-image: url("ZastavkaPol.jpg");           
     }
     100%{
-        background-image: url("ZastavkaPol.jpg");
-          background-size: 100%;
+        background-image: url("ZastavkaPol.jpg");        
     }
 }
 .container-fluid{
-
-    animation:  lop 6s ease;
+  animation:  lop 6s ease;
 }
 @keyframes lop {
     0%{
@@ -96,7 +84,6 @@ body{
 }
 #cryg {
     background-image: url("fortuna.png");
-      background-size: 100%;
     position: relative;
     margin-left: 20px;
     width: 400px;
@@ -122,7 +109,7 @@ body{
 #Ycubovigh{
     position: absolute;
     margin-top: 70px;
-    margin-left: 100px;
+    margin-left: 80px;
     border: 2px solid red;
 }
 #strel{
