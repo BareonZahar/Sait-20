@@ -103,6 +103,7 @@ function ydaga() {
     function t(){
           $('#rew').prop('disabled',true)
          $('#star').prop('disabled',false)
+         $('#but').prop('disabled',true)
     }
 }
  $('#ogur').click(fr)
