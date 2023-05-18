@@ -24,7 +24,7 @@ $('#but').click(ugaday)
 function  ugaday(){
      let bukva = $('#rew').val()
     soda++
-         for ( [w] in zagad){
+         for ( w in zagad){
              if (bukva===zagad[w]){
                  console.log('est')
                  secret[w] =bukva
